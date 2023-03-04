@@ -10,6 +10,12 @@ y=9
 print(y)
 
 add=x+y
+sub=y-x
+mul=x*y
+div=x/y
 print (add)
+print (sub)
+print(mul)
+print(div)
 
 
