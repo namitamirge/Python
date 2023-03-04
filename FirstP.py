@@ -31,3 +31,8 @@ print(string)
 mystring="Don't worry about the learning process in Python"
 print(mystring)
 
+number1=3
+number2=4
+number3=number1+number2
+st="Hello all"
+print(st,"Sum of", number1,"and", number2, "is:",number3 )
