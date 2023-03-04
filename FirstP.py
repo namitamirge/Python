@@ -28,4 +28,6 @@ print(myfloat)
 string ="Hi There"
 print(string)
 
+mystring="Don't worry about the learning process in Python"
+print(mystring)
 
