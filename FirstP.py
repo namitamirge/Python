@@ -9,4 +9,7 @@ else:
 y=9
 print(y)
 
+add=x+y
+print (add)
+
 
