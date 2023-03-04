@@ -18,4 +18,14 @@ print (sub)
 print(mul)
 print(div)
 
+myint= 7
+print(myint)
+
+myfloat = 7.0
+myfloat=float(7)
+print(myfloat)
+
+string ="Hi There"
+print(string)
+
 
