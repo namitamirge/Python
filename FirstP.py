@@ -6,4 +6,7 @@ if x==1:
 else:
     print ("Invalid number")
 
+y=9
+print(y)
+
 
