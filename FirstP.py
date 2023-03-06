@@ -36,3 +36,6 @@ number2=4
 number3=number1+number2
 st="Hello all"
 print(st,"Sum of", number1,"and", number2, "is:",number3 )
+
+string= "Welcome to the Python class"
+print (string)
