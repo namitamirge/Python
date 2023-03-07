@@ -39,3 +39,5 @@ print(st,"Sum of", number1,"and", number2, "is:",number3 )
 
 string= "Welcome to the Python class"
 print (string)
+string="How are you?"
+print(string)
