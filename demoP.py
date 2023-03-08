@@ -8,4 +8,4 @@ print(a, b,c,d)
 one=1
 two=2
 str="hello"
-print (int one + int two ,str str)
+print (one + two + str)
