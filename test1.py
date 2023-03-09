@@ -2,6 +2,7 @@
 mystring="Hello"
 myfloat=10.0
 myint=4
+
 #string=Hello
 if mystring=="Hello":
     print ("String: %s" % mystring)
