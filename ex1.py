@@ -27,3 +27,9 @@ print("%s is %d years old"%(name, age))
 #for list
 list=[1,2,3]
 print("A is : %s"%(list))
+
+#Hello John Doe. Your current balance is $53.44.
+data=("John","Doe",53.44)
+str="Hello %s %s your current balance is$ %s"
+print(str%data)
+
