@@ -33,3 +33,6 @@ data=("John","Doe",53.44)
 str="Hello %s %s your current balance is$ %s"
 print(str%data)
 
+#to get the length of string
+str="Welcome Home"
+print(len(str))
