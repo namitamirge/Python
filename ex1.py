@@ -40,3 +40,5 @@ print(len(str))
 #To get the word using index
 
 print(str.index("e"))
+# to get the count of string
+print(str.count("e"))
