@@ -36,3 +36,7 @@ print(str%data)
 #to get the length of string
 str="Welcome Home"
 print(len(str))
+
+#To get the word using index
+
+print(str.index("e"))
