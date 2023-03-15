@@ -42,3 +42,7 @@ print(len(str))
 print(str.index("e"))
 # to get the count of string
 print(str.count("e"))
+
+#to print slice of string
+print(str[3:7])
+print(str[3:7:3])  #print string from 3  to 7th place skipping 3 charactors o/p ce
