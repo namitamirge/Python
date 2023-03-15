@@ -7,11 +7,13 @@ import random
 print('Hey, whats your name?')
 name=input()
 print('Please roll the dice ' +name)
-getnum=random.randint(0,6)
-# Program to generate a random number between 0 and 9
-#print(random.randint(0,6))
-print(getnum)
+print('How many times do you wanat to roll?')
 
-#print("Do you want to roll the dice again?")
+i=1
+while i< 6:
+      roll=int(input())
 
-print(random.randint(0,6))
+      print(random.randint(0,6)) 
+      break
+
+i+=1
