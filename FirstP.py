@@ -41,3 +41,10 @@ string= "Welcome to the Python class"
 print (string)
 string="How are you?"
 print(string)
+
+
+"""
+adjs
+asnfbaj
+sbbfmasn
+"""
